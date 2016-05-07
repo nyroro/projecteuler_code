@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1447421329 source:c:\users\nyroro\desktop\pe411\main.cpp
-	<iostream>
-	<map>
-	<cmath>
-	<algorithm>
-
